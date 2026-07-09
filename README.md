@@ -34,5 +34,13 @@ Financial organizations generate thousands of transactions every day. Decision-m
 -> Investigate individual transactions  
 -> Compare Year-over-Year performance  
 
+This dashboard helps management make data-driven business decisions through interactive visualizations.  
+
+🛠️ Tools & Technologies  
+-> Power BI Desktop  
+-> Power Query  
+-> DAX (Data Analysis Expressions)  
+-> Star Schema Data Modeling  
+
 
 
