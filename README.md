@@ -26,13 +26,13 @@ This project demonstrates the complete Power BI development workflow, including 
 
 Financial organizations generate thousands of transactions every day. Decision-makers need a centralized dashboard to:  
 
-Monitor financial performance
-Track revenue and transaction growth
-Analyze customer segments
-Identify high-performing states
-Monitor transaction success rates
-Investigate individual transactions
-Compare Year-over-Year performance  
+-> Monitor financial performance  
+-> Track revenue and transaction growth  
+-> Analyze customer segments  
+-> Identify high-performing states  
+-> Monitor transaction success rates  
+-> Investigate individual transactions  
+-> Compare Year-over-Year performance  
 
 
 
