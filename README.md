@@ -37,10 +37,117 @@ Financial organizations generate thousands of transactions every day. Decision-m
 This dashboard helps management make data-driven business decisions through interactive visualizations.  
 
 🛠️ Tools & Technologies  
+
 -> Power BI Desktop  
 -> Power Query  
 -> DAX (Data Analysis Expressions)  
 -> Star Schema Data Modeling  
+
+Modeling  
+📂 Project Workflow  
+
+1️⃣ Data Cleaning (Power Query)  
+-> Performed data transformation using Power Query:  
+-> Removed duplicate records  
+-> Handled missing values  
+-> Corrected data types  
+-> Renamed columns  
+-> Standardized categorical values  
+-> Prepared clean data for analysis  
+
+2️⃣ Data Modeling  
+Created a Star Schema to improve report performance and maintainability.  
+
+Fact Table
+-> Financial Transactions  
+
+Dimension Tables  
+-> Date Table  
+-> Customer Table  
+
+Relationships were created between:  
+Date Table → Transactions  
+Customer Table → Transactions  
+
+This model supports efficient filtering and accurate DAX calculations.  
+
+3️⃣ DAX Measures  
+Created custom DAX measures for key business metrics:  
+
+-> Total Amount  
+-> Total Transactions  
+-> Total Fees  
+-> Total Tax  
+-> Average Transaction  
+-> Year-over-Year (YoY) Growth  
+-> YoY Growth Percentage  
+
+These measures provide dynamic insights based on report filters.  
+
+4️⃣ Dashboard Features  
+
+✔ Executive KPI Cards  
+
+-> Total Amount  
+-> Total Transactions  
+-> Total Fees  
+-> Average Transaction  
+-> Total Tax  
+
+✔ Interactive Slicers  
+
+-> Year  
+-> Occupation  
+-> Merchant Category  
+-> Metrics  
+
+✔ Visualizations  
+
+Monthly Transaction Trend  
+Transaction Status Analysis  
+Customer Segment Analysis  
+Gender Analysis  
+State-wise Transaction Amount  
+Transaction Type Summary  
+
+✔ Detail Analysis Page  
+
+Implemented Drill-through functionality, allowing users to navigate from summary visuals to detailed transaction-level information.  
+
+📈 Key Business Insights  
+
+The dashboard helps answer important business questions such as:  
+
+Which customer segment generates the highest revenue?  
+Which states contribute the most transaction amount?  
+What is the Year-over-Year financial performance?  
+Which transaction types generate the highest fees?  
+What percentage of transactions are successful?  
+Which months perform best throughout the year?  
+Which individual transactions require investigation?  
+
+💼 Business Value  
+
+This dashboard supports decision-making by helping management:  
+-> Identify high-performing regions  
+-> Focus on profitable customer segments  
+-> Improve transaction success rates  
+-> Monitor revenue growth  
+-> Track financial KPIs  
+-> Optimize operational performance  
+-> Investigate transaction-level details using Drill-through  
+
+🚀 Skills Demonstrated  
+-> Data Cleaning using Power Query  
+-> Data Modeling (Star Schema)  
+-> Relationship Management  
+-> DAX Measure Development  
+-> Time Intelligence (YoY Analysis)  
+-> KPI Design  
+-> Interactive Dashboard Design  
+-> Drill-through Navigation  
+-> Business Intelligence Reporting  
+-> Data Visualization Best Practices  
 
 
 
