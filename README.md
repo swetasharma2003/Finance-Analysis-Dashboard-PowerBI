@@ -20,4 +20,19 @@ Interactive Power BI Finance Dashboard featuring Power Query data cleaning, Star
 
 The Finance Analysis Dashboard is an interactive Power BI report designed to analyze financial transactions and provide actionable business insights. The dashboard enables users to monitor key financial KPIs, analyze customer segments, evaluate transaction performance, and drill down into individual transaction details for deeper investigation.
 
-This project demonstrates the complete Power BI development workflow, including data cleaning, data modeling, DAX calculations, dashboard design, and interactive reporting.
+This project demonstrates the complete Power BI development workflow, including data cleaning, data modeling, DAX calculations, dashboard design, and interactive reporting.  
+
+🎯 Business Problem
+
+Financial organizations generate thousands of transactions every day. Decision-makers need a centralized dashboard to:  
+
+Monitor financial performance
+Track revenue and transaction growth
+Analyze customer segments
+Identify high-performing states
+Monitor transaction success rates
+Investigate individual transactions
+Compare Year-over-Year performance  
+
+
+
