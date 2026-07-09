@@ -103,12 +103,12 @@ These measures provide dynamic insights based on report filters.
 
 ✔ Visualizations  
 
-Monthly Transaction Trend  
-Transaction Status Analysis  
-Customer Segment Analysis  
-Gender Analysis  
-State-wise Transaction Amount  
-Transaction Type Summary  
+-> Monthly Transaction Trend  
+-> Transaction Status Analysis  
+-> Customer Segment Analysis  
+-> Gender Analysis  
+-> State-wise Transaction Amount  
+-> Transaction Type Summary  
 
 ✔ Detail Analysis Page  
 
@@ -118,13 +118,13 @@ Implemented Drill-through functionality, allowing users to navigate from summary
 
 The dashboard helps answer important business questions such as:  
 
-Which customer segment generates the highest revenue?  
-Which states contribute the most transaction amount?  
-What is the Year-over-Year financial performance?  
-Which transaction types generate the highest fees?  
-What percentage of transactions are successful?  
-Which months perform best throughout the year?  
-Which individual transactions require investigation?  
+1. Which customer segment generates the highest revenue?  
+2. Which states contribute the most transaction amount?  
+3. What is the Year-over-Year financial performance?  
+4. Which transaction types generate the highest fees?  
+5. What percentage of transactions are successful?  
+6. Which months perform best throughout the year?  
+7. Which individual transactions require investigation?  
 
 💼 Business Value  
 
