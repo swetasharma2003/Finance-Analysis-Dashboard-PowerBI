@@ -58,7 +58,7 @@ Modeling
 2️⃣ Data Modeling  
 Created a Star Schema to improve report performance and maintainability.  
 
-Fact Table
+Fact Table  
 -> Financial Transactions  
 
 Dimension Tables  
