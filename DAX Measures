@@ -1,0 +1,23 @@
+Total Amount =
+SUM(finance_transactions[Amount])
+
+Total Transaction =
+COUNT(finance_transactions[Transaction_ID])
+
+Average Transaction =
+Average(finance_transactions[Total Amount])
+
+YOY Growth =
+[Total Amount]-[Previous Year Amount]
+
+YOY Growth % =
+DIVIDE([YOY Growth],[Previous Year Amount])
+
+Total Fees =
+SUM(finance_transactions[Fees])
+
+Total Tax =
+SUM(finance_transactions[Tax])
+
+PY Amount =
+Calculate([Total Amount],SAMEPERIODLASTYEAR(Date_table[Date]))
